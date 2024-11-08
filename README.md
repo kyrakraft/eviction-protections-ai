@@ -49,7 +49,7 @@ EPAT’s performance is evaluated using two key metrics:
 - **Recall**: Measures how effectively EPAT captures all relevant protections, ensuring comprehensive coverage without omissions.
 - **Precision**: Assesses EPAT’s ability to avoid unnecessary inclusions, focusing on relevant protections only to prevent overwhelming clients and legal staff.
 
-**Summary**: EPAT aims for near-perfect recall, capturing all relevant protections, while maximizing precision without compromising recall.
+In summary, EPAT aims for near-perfect recall, capturing all relevant protections, while maximizing precision without compromising recall.
 
 ---
 
